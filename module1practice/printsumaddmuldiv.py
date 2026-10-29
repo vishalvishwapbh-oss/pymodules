@@ -1,6 +1,0 @@
-a=int(input("enter a : "))
-b=int(input("enter a : "))
-print(f"the sum of two number{a+b}")
-print(f"the sub of two number{a-b}")
-print(f"the mul of two number{a*b}")
-print(f"the division of two number{a/b}")
